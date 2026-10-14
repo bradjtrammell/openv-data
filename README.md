@@ -1,3 +1,7 @@
+> **OpenV development note:** This repository retains the inherited Cfx server-data baseline for compatibility research. The upstream deprecation notice and technical details below describe the original source project, not a production-ready OpenV resource package. See [OpenV](https://github.com/bradjtrammell/openv) for the actual project status and [resource compatibility notes](OPENV_RESOURCE_COMPATIBILITY.md) for OpenV-specific research.
+
+---
+
 # cfx-server-data
 _The data repository for Cfx.re servers_
 
